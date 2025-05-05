@@ -1,10 +1,10 @@
-# <h1 align="center"><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm Tajwar Sultan </h1>
+# <h1><img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm Tajwar Sultan </h1>
 
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;Web+Application+Architect;JavaScript+Specialist" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link)
