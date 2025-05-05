@@ -107,7 +107,7 @@ const MERNdeveloper = {
 ## 🔍 Current Projects
 
 <div align="center">
-  <img height="40" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Code animation" />
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Code animation" />
 </div>
 
 - 🤖 **RAG-Based Chatbots**: Developing intelligent conversational interfaces using Retrieval Augmented Generation
