@@ -146,5 +146,5 @@ const MERNdeveloper = {
   <br>
   <strong>⭐️ Tajwar Sultan | MERN Stack Developer | Last Updated: May 2025</strong>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=tajwarsultan&style=flat-square&color=blue" alt="Profile views"/>
 </div>
