@@ -134,7 +134,7 @@ const MERNdeveloper = {
   <a href="your-calendly-link">
     <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/tajwarsultan">
     <img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
