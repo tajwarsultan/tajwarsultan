@@ -1,19 +1,15 @@
-# <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm Tajwar Sultan </h1>
-
-<div align="center>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;Web+Application+Architect;JavaScript+Specialist" alt="Typing SVG" />
-</div>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm Tajwar Sultan
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;Web+Application+Architect;JavaScript+Specialist" alt="Typing SVG" />
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-</div>
-
-<div align="center>
+<div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Tech animation"/>
 </div>
 
